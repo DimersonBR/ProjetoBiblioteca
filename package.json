@@ -1,0 +1,16 @@
+{
+  "name": "projetobiblioteca",
+  "version": "1.0.0",
+  "description": "Realizar a criação de um pequeno projeto em Node.js utilizando os conceitos de POO aprendidos em aula.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}

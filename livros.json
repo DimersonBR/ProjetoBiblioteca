@@ -1,0 +1,32 @@
+[
+  {
+    "titulo": "TTTT",
+    "autor": "AAAA",
+    "anoPublicacao": 2002,
+    "isbn": "123"
+  },
+  {
+    "titulo": "TTT",
+    "autor": "AAAA",
+    "anoPublicacao": 2002,
+    "isbn": "432"
+  },
+  {
+    "titulo": "",
+    "autor": "",
+    "anoPublicacao": 2,
+    "isbn": "2"
+  },
+  {
+    "titulo": "PENSEI DE MAIS",
+    "autor": "EU",
+    "anoPublicacao": 2022,
+    "isbn": "1234"
+  },
+  {
+    "titulo": "PENSEI DE MAIS",
+    "autor": "EU",
+    "anoPublicacao": 2022,
+    "isbn": "1234"
+  }
+]
